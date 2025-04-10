@@ -2,8 +2,3 @@
 *{
     font-family: Poppins, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-form{
-    position: absolute;
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-}
